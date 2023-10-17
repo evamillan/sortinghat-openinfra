@@ -1,5 +1,14 @@
 # Releases
 
+## sortinghat-openinfra 0.1.11 - (2023-10-17)
+
+**Dependencies updateds:**
+
+ * Add Python 3.9 and drop support for 3.7\
+   Python 3.7 reached the end of life phase on June 27 2023 and is no
+   longer supported.
+
+
 ## SortingHat OpenInfraID 0.1.10 - (2023-08-07)
 
 **Dependencies updateds:**
